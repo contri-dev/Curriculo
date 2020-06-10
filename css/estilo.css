@@ -1,0 +1,74 @@
+.carousel-caption p{
+  margin-bottom:5%;
+}
+#menu{
+  background: #000000;
+}
+#t1, #t2
+{
+  margin-top: 8%;
+}
+#card1{
+  margin-top: 50px;
+}
+#card2{
+  margin-top: 50px;
+}
+#carousel h3{
+  font-size:50px;
+  margin-bottom:50px;
+}
+#carouselText{
+  font-size:25px;
+  margin-bottom:50px;
+}
+#formacao
+{
+  background-image: url("../img/escolaridade.jpg");
+  height: 500px;
+}
+#formacao h1{
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 5%;
+}
+#formacao p{
+  color: #ffffff;
+  font-size: 20px;
+}
+#habilidades{
+  margin-top:50px;
+  background-image: url("../img/habilidades.jpg");
+  height: 300px;
+}
+#habilidades h1{
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 5%;
+}
+#habilidades p{
+  color: #ffffff;
+  font-size: 20px;
+}
+#qualificacoes{
+  margin-top:0px;
+  background-image: url("../img/qualificacoes.jpg");
+  height: 500px;
+}
+#qualificacoes i{
+  margin-top: 0px;
+}
+#pills-nav li a.active,#pills-nav li a:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+.nav-pills li a {
+  color: #000000;
+}
+#contentnavpill h2
+{
+  margin-top: 40px;
+}
+#github
+{
+}
