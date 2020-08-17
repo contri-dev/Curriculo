@@ -27,6 +27,11 @@
   background-image: url("../img/escolaridade.jpg");
   height: 500px;
 }
+#formacao p
+{
+ border: 1px solid #ffffff;
+ padding: 1%;
+}
 #formacao h1{
   text-align: center;
   color: #ffffff;
@@ -40,11 +45,12 @@
   margin-top:50px;
   background-image: url("../img/habilidades.jpg");
   height: 300px;
+  margin-bottom: 0px;
 }
 #habilidades h1{
   text-align: center;
   color: #ffffff;
-  margin-bottom: 5%;
+   margin-bottom: 3;
 }
 #habilidades p{
   color: #ffffff;
