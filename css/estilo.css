@@ -26,6 +26,7 @@
 {
   background-image: url("../img/escolaridade.jpg");
   height: 500px;
+  margin:0px;
 }
 #formacao p
 {
@@ -59,7 +60,20 @@
 #qualificacoes{
   margin-top:0px;
   background-image: url("../img/qualificacoes.jpg");
-  height: 500px;
+  height: 800px;
+}
+#contentnavpill li{
+	text-align:center;
+	margin:auto;
+	width:340px;
+	color:#000000;
+	list-style-type:none;
+	margin-top:1%;
+	border:solid 1px #4F4F4F;
+	padding: 0.5%;
+}
+#contentnavpill p{
+	margin-top:3%
 }
 #qualificacoes i{
   margin-top: 0px;
@@ -74,7 +88,4 @@
 #contentnavpill h2
 {
   margin-top: 40px;
-}
-#github
-{
 }
