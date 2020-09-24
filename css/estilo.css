@@ -72,6 +72,10 @@
 	border:solid 1px #4F4F4F;
 	padding: 0.5%;
 }
+#contentnavpill a:link
+{
+	text-decoration:none
+}
 #contentnavpill p{
 	margin-top:3%
 }
